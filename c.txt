@@ -1,3 +1,6 @@
 hello
+<<<<<<< HEAD
 <p>welcome</p>
 <p>there</p>
+=======
+<p>ok</p>
